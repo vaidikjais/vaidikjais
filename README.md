@@ -1,7 +1,6 @@
 <div align="center">
   <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Vaidik Jaiswal;I'm+an+Aspiring+Software+Engineer;and+an+AI/ML+enthusiast+" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I'm+Vaidik+Jaiswal.+;I'm+an+aspiring+software+developer;and+an+AI%2FML+enthusiast" alt="Typing SVG" /></a>
 
 </div>
 
